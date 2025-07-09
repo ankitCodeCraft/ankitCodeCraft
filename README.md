@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit Kumar Gupta
 
-<!--
-**ankitCodeCraft/ankitCodeCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE-AIML | 🌐 Web Developer Intern at CodSoft  
+💻 I love building projects using HTML, CSS, JS, React, and Node.js  
+📈 Always learning and exploring new tech (currently into AI and backend)  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🧮 [Calculator](https://github.com/your_repo) - Simple Calculator using HTML/CSS/JS
+- 🌐 [Portfolio Website](https://github.com/your_repo) - Personal web portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 ankit23617709@gmail.com
