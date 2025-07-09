@@ -9,5 +9,5 @@
 - 🌐 [Portfolio Website](https://github.com/your_repo) - Personal web portfolio
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](www.linkedin.com/in/ankit-kumar-gupta-a061b8354)
 - 📧 ankit23617709@gmail.com
